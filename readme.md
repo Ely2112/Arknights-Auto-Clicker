@@ -87,34 +87,34 @@ Validation Dataset: 20%
 Testing Dataset: 0%, as testing the program will also test the model performance on new data
 
 ### battle
-<img src="data\battle\image_11_27_13.png" width="360">
+<img src="data\photos for readme\image_11_27_13.png" width="360">
 
 ### battle_end
-<img src="data\battle_end\image_18_23_18_278407.png" width="360">
+<img src="data\photos for readme\image_18_23_18_278407.png" width="360">
 
 ### battle_load_color
-<img src="data\battle_load_color\image_18_09_53_715734.png" width="360">
+<img src="data\photos for readme\image_18_09_53_715734.png" width="360">
 
 ### battle_load_gray
-<img src="data\battle_load_gray\image_18_09_57_366672.png" width="360">
+<img src="data\photos for readme\image_18_09_57_366672.png" width="360">
 
 ### black
-<img src="data\black\image_18_09_51_859881.png" width="360">
+<img src="data\photos for readme\image_18_09_51_859881.png" width="360">
 
 ### end
-<img src="data\end\image_11_28_04.png" width="360">
+<img src="data\photos for readme\image_11_28_04.png" width="360">
 
 ### end_icon
-<img src="data\end_icon\image_18_26_13_978117.png" width="360">
+<img src="data\photos for readme\image_18_26_13_978117.png" width="360">
 
 ### main
-<img src="data\main\image_11_28_11.png" width="360">
+<img src="data\photos for readme\image_11_28_11.png" width="360">
 
 ### sanity
-<img src="data\sanity\image_11_58_01.png" width="360">
+<img src="data\photos for readme\image_11_58_01.png" width="360">
 
 ### team
-<img src="data\team\image_11_30_25.png" width="360">
+<img src="data\photos for readme\image_11_30_25.png" width="360">
 
 ## Image Classification
 Using Keras CNN network:  
@@ -167,6 +167,8 @@ _________________________________________________________________
 Accuracy: 100%, as the images are very consistent:    
 
 <img src="model_performance.png" width="360">
+
+The model is zipped and stored [here](https://drive.google.com/file/d/1CVc1K4QFhE1yAgLahXg1SlxA9QjwyRQj/view?usp=sharing)
 
 ## TrOCR
 Using HuggingFace's TrOCR model:  
