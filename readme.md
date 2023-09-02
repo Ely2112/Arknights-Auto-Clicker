@@ -10,6 +10,10 @@
 * Can detect and alert the player when all the sanity is used (to be updated)
 
 ### Demo Video
+https://github.com/Ely2112/Arknights-Auto-Clicker/assets/84430363/d0a6dfaa-f150-409d-bd1d-b96c4da77463  
+
+Full video at [here](https://www.youtube.com/watch?v=0az1m93iW_0)
+
 
 
 ## Python Environment & Library Setup
