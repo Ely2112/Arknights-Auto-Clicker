@@ -48,7 +48,7 @@ pip freeze > requirements.txt
 
 ## How to use it?
 1.  Download Bluestack (https://www.bluestacks.com/download.html), for Arknights to run on computer
-2.  Single Monitor users: run main.py, then immediately switch the the Bluestack software with full screen
+2.  Single Monitor users: run main.py, then immediately switch to the Bluestack software with full screen
 2.  Multiple Monitors users: Open the Bluestack software on top of your main screen then run main.py
 
 ## File Structure
