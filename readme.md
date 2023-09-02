@@ -10,7 +10,7 @@
 * Can detect and alert the player when all the sanity is used (to be updated)
 
 ### Demo Video
-<video width="720" controls><source src="final detection.mov"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0az1m93iW_0?si=W2uXjBn_XbgTNQip" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Python Environment & Library Setup
 
