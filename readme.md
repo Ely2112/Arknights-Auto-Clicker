@@ -122,7 +122,7 @@ Testing Dataset: 0%, as the program will also test the model performance on new 
 <img src="data\photos for readme\image_11_30_25.png" width="360">
 
 ## Image Classification
-Using Keras CNN network:  
+Using Keras CNN model:  
 ```bash
 Model: "sequential"
 _________________________________________________________________
