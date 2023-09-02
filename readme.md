@@ -171,7 +171,7 @@ Accuracy: 100%, as the images are very consistent:
 
 <img src="model_performance.png" width="360">
 
-The model is zipped and stored [here]([https://drive.google.com/file/d/1CVc1K4QFhE1yAgLahXg1SlxA9QjwyRQj/view?usp=sharing](https://drive.google.com/file/d/18wATNi7JYlM4ODN4kt3MN9mPg7Xf6ezB/view?usp=sharing))
+The model is zipped and stored [here](https://drive.google.com/file/d/18wATNi7JYlM4ODN4kt3MN9mPg7Xf6ezB/view?usp=sharing)
 
 ## TrOCR
 Using HuggingFace's TrOCR model:  
