@@ -86,10 +86,10 @@ pip freeze > requirements.txt
 ```
 
 ## Image class
-Total of 4,795 images for trainig
-Training Dataset: 80%
-Validation Dataset: 20%
-Testing Dataset: 0%, as testing the program will also test the model performance on new data
+Total of 4,795 images for trainig  
+Training Dataset: 80%  
+Validation Dataset: 20%  
+Testing Dataset: 0%, as the program will also test the model performance on new data  
 
 ### battle
 <img src="data\photos for readme\image_11_27_13.png" width="360">
