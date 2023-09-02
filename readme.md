@@ -12,6 +12,11 @@
 ### Demo Video
 
 
+https://github.com/Ely2112/Arknights-Auto-Clicker/assets/84430363/78b9eaf9-24c2-4d3b-9af3-4aa982ce793b
+
+
+Full video at [here](https://www.youtube.com/watch?v=0az1m93iW_0)
+
 ## Python Environment & Library Setup
 
 ### Create virtual environment 
